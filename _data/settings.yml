@@ -4,7 +4,7 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: Yet Another Minimal Theme
+  text: Just Existing
 
 #Nav 
 nav:
@@ -23,7 +23,7 @@ categories:
 
 #Show date and read time under the post title
 date-under-post:
-  active: true
+  active: false
 
 #Use MathJAX
 mathjax:
@@ -31,8 +31,8 @@ mathjax:
 
 #Show related posts based on categories
 related-posts:
-  active: true
+  active: false
   title: "You May Also Enjoy"
 
 #Comments
-comments: true
+comments: false
