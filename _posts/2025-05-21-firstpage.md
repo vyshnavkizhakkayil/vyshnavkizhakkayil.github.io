@@ -5,7 +5,7 @@ Welcome to my new blog series where I dive into **KiCad**, a powerful open-sourc
 ---
 
 
-![KiCad Screenshot](/_posts/kicad.png)
+![KiCad Screenshot](kicad.png)
 
 
 
