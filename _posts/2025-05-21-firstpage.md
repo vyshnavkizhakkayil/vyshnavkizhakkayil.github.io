@@ -1,13 +1,14 @@
+---
+title : KI CAD
+image : /assets/img/airplane.jpg
+
+---
+
 # Getting Started with KiCad: Your Journey into PCB Design
 
 Welcome to my new blog series where I dive into **KiCad**, a powerful open-source software suite for electronic design automation (EDA). Whether you're a hobbyist, student, or professional, KiCad offers everything you need to create printed circuit boards (PCBs) from scratch.
 
 ---
-
-
-![KiCad Screenshot](kicad.png)
-
-
 
 ## What is KiCad?
 
