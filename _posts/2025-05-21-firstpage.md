@@ -1,6 +1,6 @@
 ---
 title : KI CAD
-image : /_posts/kicad.png
+image : /assets/img/kicad.png
 
 ---
 
