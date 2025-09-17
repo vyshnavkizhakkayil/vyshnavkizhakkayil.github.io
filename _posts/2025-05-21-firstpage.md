@@ -1,6 +1,6 @@
 ---
 title : KI CAD
-image : /assets/img/airplane.jpg
+image : /_posts/kicad.png
 
 ---
 
